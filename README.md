@@ -2,7 +2,7 @@
 
 ### About Me:
 
-🎓 Studying **Computer Science** at the University of Texas San Antonio
+🎓 Studying **Computer Science** at the University of Texas at San Antonio
 
 🧠 Interested in **software engineering**, **ML/DL**, and **automation**
 
